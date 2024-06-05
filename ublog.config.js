@@ -1,11 +1,11 @@
 module.exports = {
-  title: "uBlog",
+  title: "Catcher in the rye",
   description:
-    "A minimalist blog on nostr that allows anyone to easily create their own personal micro-blog.",
+    "My micro-blog test",
   favicon:
     "https://upload.wikimedia.org/wikipedia/commons/0/0b/Greek_lc_mu.svg",
   logo: "https://upload.wikimedia.org/wikipedia/commons/0/0b/Greek_lc_mu.svg",
-  npub: "npub1hk08saqjqxj0u98vjyeh8rd7n3828wh60wsf74nwkjexwlg22x6q4acuqq",
+  npub: "npub1nhfg8vdae65v4vg2309p69nh7ugh6058py9ph4qpe7eplnumd04s6y0jy3",
   themes: [
     "light",
     "dark",
